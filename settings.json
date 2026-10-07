@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "UnstableSMPfromwish.aternos.me",
-    "port": 25565,
+    "port": 54396,
     "version": "26.1.2",
     "try-creative": false
   },
